@@ -1,12 +1,14 @@
-# JUNG JEE HOUK(Jayden) 😄
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hello%20World!!&fontSize=70)
 
-### 안녕하세요! 👋
+<div align="center">
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjayden000106&count_bg=%237FBBB2&title_bg=%23EBEAE5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+### JUNG JEE HOUK(Jayden) 😄
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayden000106&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fdsa0106)](https://solved.ac/fdsa0106/)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjayden000106&count_bg=%237FBBB2&title_bg=%23EBEAE5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ### Skills
 
@@ -17,6 +19,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ### Contacts
+
+cars0106@naver.com
+
+</div>
 
 <!--
 **jayden000106/jayden000106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
